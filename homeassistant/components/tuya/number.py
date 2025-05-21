@@ -100,6 +100,7 @@ NUMBERS: dict[str, tuple[NumberEntityDescription, ...]] = {
             key=DPCode.TARGET_DIS_CLOSEST,
             translation_key="target_dis_closest",
             device_class=NumberDeviceClass.DISTANCE,
+            entity_category=EntityCategory.CONFIG,
         ),
     ),
     # Coffee maker

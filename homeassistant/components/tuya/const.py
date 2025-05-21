@@ -194,6 +194,7 @@ class DPCode(StrEnum):
     FAN_MODE = "fan_mode"
     FAN_VERTICAL = "fan_vertical"  # Vertical swing flap angle
     FAR_DETECTION = "far_detection"
+    CHECKING_RESULT = "checking_result"
     FAULT = "fault"
     FEED_REPORT = "feed_report"
     FEED_STATE = "feed_state"
