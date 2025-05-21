@@ -1,7 +1,7 @@
 {
   "domain": "tuya",
-  "name": "Tuya",
-  "codeowners": ["@Tuya", "@zlinoliver"],
+  "name": "Tuya (Colodochine)",
+  "codeowners": ["@Tuya", "@daoduyquang91"],
   "config_flow": true,
   "dependencies": ["ffmpeg"],
   "dhcp": [

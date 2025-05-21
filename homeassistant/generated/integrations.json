@@ -6884,7 +6884,7 @@
       "iot_class": "cloud_polling"
     },
     "tuya": {
-      "name": "Tuya",
+      "name": "Tuya (Colodochine)",
       "integration_type": "hub",
       "config_flow": true,
       "iot_class": "cloud_push"
